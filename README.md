@@ -1,2 +1,0 @@
-# PrivacyAssistant
-Privacy Assistant alert
